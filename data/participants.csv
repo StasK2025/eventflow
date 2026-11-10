@@ -1,0 +1,14 @@
+name,email,company,ticket,status,checked_in,registered_at
+Анна Волкова,anna.volkova@example.ru,ZeroCoder,vip,confirmed,true,2026-08-18T09:20:00Z
+Иван Смирнов,ivan.smirnov@example.ru,Альфа,standard,confirmed,false,2026-08-18T11:05:00Z
+Мария Кузнецова,maria.kuznetsova@example.ru,Север,business,new,false,2026-08-19T08:40:00Z
+Дмитрий Соколов,dmitry.sokolov@example.ru,Вектор,standard,waitlist,false,2026-08-19T12:15:00Z
+Елена Васильева,elena.vasilieva@example.ru,Пульс,business,confirmed,true,2026-08-20T07:55:00Z
+Алексей Попов,alexey.popov@example.ru,Гранит,standard,cancelled,false,2026-08-20T13:30:00Z
+София Новикова,sofia.novikova@example.ru,Маяк,vip,new,false,2026-08-21T10:10:00Z
+Николай Морозов,nikolay.morozov@example.ru,Линия,business,confirmed,true,2026-08-21T15:45:00Z
+Ирина Фёдорова,irina.fedorova@example.ru,Орион,standard,waitlist,false,2026-08-22T09:00:00Z
+Михаил Волков,mikhail.volkov@example.ru,Клевер,vip,confirmed,false,2026-08-22T14:25:00Z
+Вера Алексеева,vera.alexeeva@example.ru,Старт,standard,new,false,2026-08-23T08:35:00Z
+Павел Лебедев,pavel.lebedev@example.ru,Фокус,business,confirmed,false,2026-08-23T16:05:00Z
+

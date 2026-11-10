@@ -1,0 +1,19 @@
+{
+  "event": {
+    "name": "Практикум «Продукты с ИИ»",
+    "venue": "Учебный центр",
+    "capacity": 120
+  },
+  "statuses": [
+    { "value": "new", "label": "Новый" },
+    { "value": "confirmed", "label": "Подтверждён" },
+    { "value": "waitlist", "label": "Лист ожидания" },
+    { "value": "cancelled", "label": "Отменён" }
+  ],
+  "tickets": [
+    { "value": "standard", "label": "Стандартный" },
+    { "value": "business", "label": "Бизнес" },
+    { "value": "vip", "label": "VIP" }
+  ]
+}
+

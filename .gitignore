@@ -1,0 +1,16 @@
+# Учебные и служебные артефакты
+AGENTS.md
+lesson-summary.md
+opencode.json
+.opencode/
+.playwright-mcp/
+
+# Архивы и резервные выгрузки
+app.zip
+eventflow-backup-*.json
+
+# ОС и редакторы
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

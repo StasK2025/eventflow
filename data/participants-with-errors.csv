@@ -1,0 +1,10 @@
+name,email,company,ticket,status,checked_in,registered_at
+Ольга Белова,olga.belova@example.ru,Точка,standard,new,false,2026-08-24T08:10:00Z
+Сергей Котов,sergey.kotov-at-example.ru,Поток,business,confirmed,false,2026-08-24T09:15:00Z
+,no.name@example.ru,Контур,standard,new,false,2026-08-24T09:30:00Z
+Анна Волкова,anna.volkova@example.ru,ZeroCoder,vip,confirmed,true,2026-08-24T10:00:00Z
+Роман Орлов,roman.orlov@example.ru,Сфера,standard,approved,false,2026-08-24T10:20:00Z
+Людмила Сергеева,ludmila.sergeeva@example.ru,Волна,business,waitlist,true,2026-08-24T10:45:00Z
+Ольга Белова,olga.belova@example.ru,Точка,standard,new,false,2026-08-24T11:05:00Z
+Павел Ершов,pavel.ershov@example.ru,Мост,vip,confirmed,false,2026-08-24T11:30:00Z
+
